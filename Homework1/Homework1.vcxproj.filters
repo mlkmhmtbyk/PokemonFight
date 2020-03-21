@@ -14,4 +14,16 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Dersler\Algo2\hw1\blastoise.txt" />
+    <Text Include="..\..\..\..\Dersler\Algo2\hw1\pikachu.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Dersler\Algo2\hw1\BLG336_2020_HW1.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
