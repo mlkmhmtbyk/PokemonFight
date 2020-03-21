@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\Dersler\Algo2\hw1\blastoise.txt" />
-    <Text Include="..\..\..\..\Dersler\Algo2\hw1\pikachu.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\Dersler\Algo2\hw1\BLG336_2020_HW1.pdf" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="Source.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\blastoise.txt" />
+    <Text Include="..\pikachu.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\BLG336_2020_HW1.pdf" />
   </ItemGroup>
 </Project>
