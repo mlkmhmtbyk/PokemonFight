@@ -138,6 +138,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Attack.cpp" />
+    <ClCompile Include="Pokemon.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -146,6 +148,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\BLG336_2020_HW1.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Attack.h" />
+    <ClInclude Include="Pokemon.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

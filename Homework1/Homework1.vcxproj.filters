@@ -18,6 +18,12 @@
     <ClCompile Include="Source.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
+    <ClCompile Include="Attack.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Pokemon.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\blastoise.txt" />
@@ -25,5 +31,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\BLG336_2020_HW1.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Pokemon.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Attack.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
